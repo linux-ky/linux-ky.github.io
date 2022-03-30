@@ -11351,7 +11351,7 @@ html {
 
 .btn-social {
   border-radius: 100%;
-  display: inline-flex;
+  display: flex;
   width: 3.25rem;
   height: 3.25rem;
   font-size: 1.25rem;
