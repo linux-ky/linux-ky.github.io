@@ -173,6 +173,12 @@ address {
   line-height: inherit;
 }
 
+video.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 ol,
 ul {
   padding-left: 2rem;
