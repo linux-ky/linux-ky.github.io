@@ -173,7 +173,7 @@ address {
   line-height: inherit;
 }
 
-video.center {
+iframe.center {
   display: block;
   margin-left: auto;
   margin-right: auto;
